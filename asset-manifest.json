@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leenore/static/css/main.a35505fd.chunk.css",
+    "main.js": "/leenore/static/js/main.83a61568.chunk.js",
+    "main.js.map": "/leenore/static/js/main.83a61568.chunk.js.map",
+    "runtime-main.js": "/leenore/static/js/runtime-main.ada9f224.js",
+    "runtime-main.js.map": "/leenore/static/js/runtime-main.ada9f224.js.map",
+    "static/js/2.7faf32ae.chunk.js": "/leenore/static/js/2.7faf32ae.chunk.js",
+    "static/js/2.7faf32ae.chunk.js.map": "/leenore/static/js/2.7faf32ae.chunk.js.map",
+    "index.html": "/leenore/index.html",
+    "static/css/main.a35505fd.chunk.css.map": "/leenore/static/css/main.a35505fd.chunk.css.map",
+    "static/js/2.7faf32ae.chunk.js.LICENSE.txt": "/leenore/static/js/2.7faf32ae.chunk.js.LICENSE.txt",
+    "static/media/guide1.94020178.png": "/leenore/static/media/guide1.94020178.png",
+    "static/media/space.7d1d5f7e.png": "/leenore/static/media/space.7d1d5f7e.png",
+    "static/media/terra.8fe80783.png": "/leenore/static/media/terra.8fe80783.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ada9f224.js",
+    "static/js/2.7faf32ae.chunk.js",
+    "static/css/main.a35505fd.chunk.css",
+    "static/js/main.83a61568.chunk.js"
+  ]
+}
